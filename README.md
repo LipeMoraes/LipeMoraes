@@ -1,6 +1,6 @@
 <h1>Felipe Moraes</h1>
 <h2>About me</h2>
-<p>Tenho 26 anos e Sempre fui apaixonado por tecnonogia, agora encarando mais um desafio e iniciando no mundo da programação</p>
+<p>26 anos, apaixonado por tecnonogia, encarando mais um desafio e iniciando no mundo da programação</p>
 <h3>Technologies</h3>
  
 <ul>
