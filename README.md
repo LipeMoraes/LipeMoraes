@@ -1,6 +1,6 @@
-<h1>Felipe Moraes</h1>
+<h1><a href ="https://github.com/LipeMoraes/LipeMoraes"> Felipe Moraes<a/></h1>
 <h2>About me</h2>
-<p>26 anos, apaixonado por tecnonogia, encarando mais um desafio e iniciando no mundo da programação</p>
+<p>26 anos, apaixonado por tecnonogia e iniciando no mundo da programação</p>
 <h3>Technologies</h3>
  
 <ul>
